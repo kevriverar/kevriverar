@@ -1,8 +1,13 @@
 <h2>Hola, I'm Kevin Rivera! </h2>
 <div id="header links">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https%3A%2F%2Flinkedin%2Fin%2Fkevriverar%2F">
-  <img alt="Email" src="https://img.shields.io/badge/email%20me!-red?style=for-the-badge&link=mailto%3Akevin.rivera110%40upr.edu">
-  <img alt="Web" src="https://img.shields.io/badge/website-yellow?style=for-the-badge&link=https%3A%2F%2Fkevriverar.github.io%2F">  
+  <a href="https://linkedin.com/in/kevriverar" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:kevin.rivera110@upr.edu" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/email%20me!-red?style=for-the-badge&link">
+  </a>
+  <a href="https://kevriverar.github.io/" target="_blank">
+  <img alt="Web" src="https://img.shields.io/badge/website-yellow?style=for-the-badge">  
 </div>
 <div id="social links">
   <p align="left">
