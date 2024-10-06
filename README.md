@@ -1,16 +1,31 @@
-## Hi there 👋
+<h2>Hola, I'm Kevin Rivera! </h2>
+<div id="header links">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&link=https%3A%2F%2Flinkedin%2Fin%2Fkevriverar%2F">
+  <img alt="Email" src="https://img.shields.io/badge/email%20me!-red?style=for-the-badge&link=mailto%3Akevin.rivera110%40upr.edu">
+  <img alt="Web" src="https://img.shields.io/badge/website-yellow?style=for-the-badge&link=https%3A%2F%2Fkevriverar.github.io%2F">  
+</div>
+<div id="social links">
+  <p align="left">
+  <a href="https://twitter.com/kevriverar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevriverar" height="25" width="35" /></a>
+  <a href="https://instagram.com/kevriverar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevriverar" height="25" width="35" /></a>
+  </p>
+</div>
 
-<!--
-**kevriverar/kevriverar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      
+## 🇵🇷 About me
+  My name is **Kevin S. Rivera Ramos** and I'm from **San Germán**, **Puerto Rico**. I'm currently a freshman in the **University of Puerto Rico at Mayagüez**, majoring **Electrical Engineering**. I have a interest in **natural sciences** such as **chemistry** and **biology**, as well as **prosthetics**, **medical devices** and **biomechanics**. In the future, I plan to pursue a career in biomedical engineering. 
 
-Here are some ideas to get you started:
+**I'm seeking research & internships opportunities for the coming years. :)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech
+<div id=tech>
+  <p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,arduino,html,js,css" />
+  </a>
+</p>
+</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kevriverar&label=Profile%20views&color=0e75b6&style=flat" alt="kevriverar" /> </p>
+
+<!-- pizza better than hamburgers
