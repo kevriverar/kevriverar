@@ -9,12 +9,6 @@
   <a href="https://kevriverar.github.io/" target="_blank">
   <img alt="Web" src="https://img.shields.io/badge/website-yellow?style=for-the-badge">  
 </div>
-<div id="social links">
-  <p align="left">
-  <a href="https://twitter.com/kevriverar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevriverar" height="25" width="35" /></a>
-  <a href="https://instagram.com/kevriverar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevriverar" height="25" width="35" /></a>
-  </p>
-</div>
 
       
 ## 🇵🇷 About me
